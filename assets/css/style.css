@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/train-station.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 2;
+  }
+   .card-body a {
+     word-break: break-all;
+   }
+
+.card {
+ background-color: black;
+ border: 2px solid grey;
+   border-radius: 5px;
+}
+
+.jumbotron {
+ border: 2px solid grey;
+   border-radius: 5px;
+}
+
+.articleHeadline {
+   line-height: 1.5;
+}
