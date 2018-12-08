@@ -1,8 +1,10 @@
-Project Title --Train Scheduler [Click here to demo the site!](https://melperez19.github.io/Train-Scheduler/)
+### Train Scheduler 
 
-### Overview
+[Click here to demo the site!](https://melperez19.github.io/Train-Scheduler/)
 
-In this assignment, I created a train schedule application that incorporates Firebase to host arrival and departure data. This app  retrieves and manipulates this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
+ Overview
+
+This project is my creation of a train schedule application that incorporates Firebase to host arrival and departure data. This app  retrieves and manipulates this information with Moment.js. The website will also provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
 
  This application suits these basic specs.
